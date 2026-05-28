@@ -1,7 +1,7 @@
 # Healthcare Risk Analytics Platform
 
 ## Overview
-A production-style healthcare analytics platform built using RShiny for real-time healthcare risk assessment and predictive analytics.
+# Production-Grade Healthcare Risk Analytics Platform using RShiny and DevOps.
 
 ## Features
 - Dynamic CSV Upload
